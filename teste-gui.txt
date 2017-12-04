@@ -1,6 +1,15 @@
+<<<<<<< HEAD
 salve
 
 Teste da parada
 
 
 333
+=======
+Teste da parada
+
+
+
+
+guilhermão
+>>>>>>> master
